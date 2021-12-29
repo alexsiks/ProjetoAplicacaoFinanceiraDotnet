@@ -1,7 +1,9 @@
 # ProjetoAplicacaoFinanceiraDotnet
  Aplicação financeira comercial
  
- ![ProjetoAplicaçãoFinanceiraDotnet.mp4](https://github.com/alexsiks/ProjetoAplicacaoFinanceiraDotnet/blob/31ca4990c324f6f77a8511f6ddecc0cbef7884cf/ProgramandoCauculadora.mp4)
+ <h3>Cauculadora desenvolvida para efetuar cauculos de rateio de preços do Mercado Livre e suas Taxas como (Custo Unitário de Frete e Venda).
+ 
+ ![cauculadoraDotnet](https://github.com/alexsiks/ProjetoAplicacaoFinanceiraDotnet/blob/fb3508069f0c19cafaecf629889e195827e3da5f/ProjetoFinanceiroDotnet/cauculadoraDotnet.jpg)
 ##
 
 
